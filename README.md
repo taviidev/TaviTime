@@ -141,38 +141,6 @@ Cumple con el Real Decreto-ley 8/2019 de forma sencilla, legal y económica.
 
 ---
 
-## 🚀 Instalación (Desarrolladores)
-
-> **Nota**: Este es un proyecto comercial. Si eres cliente, visita [tavitime.es](https://tavitime.es) para solicitar acceso.
-
-### Requisitos
-- PHP 8.2+
-- Node.js 18+
-- PostgreSQL 14+
-- Composer
-
-### Backend (ApiTaviTime)
-```bash
-git clone <repo-url>
-cd ApiTaviTime
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
-```
-
-### Frontend (FrontendTaviTime)
-```bash
-git clone <repo-url>
-cd FrontendTaviTime
-npm install
-cp .env.example .env
-npm run dev
-```
-
----
-
 ## 📐 Arquitectura Técnica
 
 ### Autenticación: Sanctum Cookies
