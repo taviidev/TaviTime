@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![TaviTime Logo](public/logo.png)
+![TaviTime Logo](public/logo.svg)
 
 **Software de control horario para pymes españolas**
 
 Cumple con el Real Decreto-ley 8/2019 de forma sencilla, legal y económica.
 
-[🌐 Web](https://tavitime.es) · [📖 Documentación](#) · [🔧 Status](#)
+[🌐 Web](https://tavitime.es)
 
 </div>
 
@@ -216,6 +216,6 @@ Propiedad privada. Todos los derechos reservados © 2026 TaviTime.
 
 **Hecho con ❤️ para las pymes españolas**
 
-[Web](https://tavitime.es) · [LinkedIn](https://linkedin.com/company/tavitime) · [Twitter](https://twitter.com/tavitime)
+[Web](https://tavitime.es) · [LinkedIn](#) · [Twitter](#)
 
 </div>
